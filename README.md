@@ -1,0 +1,1 @@
+An application that searches earthquake.usgs.gov for recent earthquakes and lists them
